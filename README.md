@@ -1,1 +1,3 @@
-# ICLR23-MEMO
+# A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning
+
+The code repository for "[A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/abs/2205.13218)" (Accepted by ICLR'23 Spotlight ) in PyTorch. Code is being cleaned up, coming soon...
