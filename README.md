@@ -49,4 +49,4 @@ We thank the following repos providing helpful components/functions in our work.
 - [Deep Class-Incremental Learning: A Survey](https://github.com/zhoudw-zdw/CIL_Survey)
 
 ## Contact
-If there are any questions, please feel free to contact with the author: Da-Wei Zhou (zhoudw@lamda.nju.edu.cn) and Qi-Wei Wang (wangqiwei@lamda.nju.edu.cn). Enjoy the code.
+If there are any questions, please feel free to contact with the authors: Da-Wei Zhou (zhoudw@lamda.nju.edu.cn) and Qi-Wei Wang (wangqiwei@lamda.nju.edu.cn). Enjoy the code.
