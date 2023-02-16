@@ -1,6 +1,6 @@
 # A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning
 
-The code repository for "[A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/abs/2205.13218)" (Accepted by ICLR'23 Spotlight ) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
+The code repository for "[A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/abs/2205.13218)" (**ICLR'23 Spotlight**) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
 
 ```
 @inproceedings{zhou2022model,
