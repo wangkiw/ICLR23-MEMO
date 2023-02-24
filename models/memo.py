@@ -12,7 +12,6 @@ from utils.inc_net import AdaptiveNet
 from utils.toolkit import count_parameters, target2onehot, tensor2numpy
 
 num_workers=8
-T=2
 
 class MEMO(BaseLearner):
 
